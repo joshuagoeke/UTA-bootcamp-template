@@ -20,10 +20,17 @@
   }
 
 /*various headings*/
-  h1, h2, h3, h4, h5, h6 {
-    font-size: 100%;
-  }
-  
+h1 {
+  font-size: 300%;
+}
+
+h2 {
+  font-size: 200%;
+}  
+
+h3  {
+  font-size: 150%;
+}
   ol, ul {
     list-style: none;
   }
