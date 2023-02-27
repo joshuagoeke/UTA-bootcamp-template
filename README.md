@@ -3,6 +3,7 @@
 In this homework assignment from the University of Texas-Austin Bootcamp we were asked to ...
 
 # <Your-Project-Title>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
